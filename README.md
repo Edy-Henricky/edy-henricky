@@ -17,9 +17,15 @@
   ### Para contato e/ou mais informações sobre mim, me segue nas redes abaixo!
  
 <div>
-  <a href="https://instagram.com/Edy_Henricky" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://www.discord.com/users/278639392975749130" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/edson-henricky-95421b234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/Edy_Henricky" target="_blank">
+     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.discord.com/users/278639392975749130" target="_blank">
+     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/edson-henricky-95421b234" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
  
   ![Snake animation](https://github.com/Edy-Henricky/Edy-Henricky/blob/output/github-contribution-grid-snake.svg)
 
